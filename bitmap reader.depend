@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1512685261 source:c:\users\user\desktop\physicorum\bitmap reader\main.cpp
+	<cstdio>
+	<iostream>
+	"bitmap_image.hpp"
+
+1512684836 c:\users\user\desktop\physicorum\bitmap reader\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+	<vector>
+
