@@ -26,7 +26,7 @@ int main()
 
    for (std::size_t y = 0; y < height; ++y)
    {
-      for (std::size_t x = 0; x < width; ++x)
+      for (std::size_t x = 0; x < width; x++)
       {
          rgb_t colour;
 
